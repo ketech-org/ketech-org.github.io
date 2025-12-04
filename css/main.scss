@@ -42,3 +42,35 @@ $theme-dark: #222;
         "mixins",
         "base"
 ;
+
+// Privacy policy page tweaks
+.policy-page #policy-hero {
+    padding-top: 140px;
+    padding-bottom: 80px;
+}
+
+.policy-page #policy-hero .section-heading {
+    color: white;
+}
+
+.policy-page #policy-hero p {
+    color: rgba(white, 0.85);
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+
+.policy-page .policy-content {
+    padding: 60px 0 100px;
+}
+
+.policy-page .policy-content h2 {
+    margin-top: 40px;
+}
+
+.policy-page .policy-content h3 {
+    margin-top: 30px;
+}
+
+.policy-page .policy-content ul {
+    margin-bottom: 20px;
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body id="page-top" class="policy-page">
+  {% include nav.html %}
+
+  <section class="bg-primary" id="policy-hero">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-10 col-lg-offset-1 text-center">
+          <h1 class="section-heading">{{ page.title }}</h1>
+          {% if page.effective_date %}
+          <p class="text-faded">Effective date: {{ page.effective_date }}</p>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="policy-content" id="policy">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-10 col-lg-offset-1">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {% unless page.hide_contact %}
+    {% include contact.html %}
+  {% endunless %}
+  {% include scripts.html %}
+</body>
+
+</html>
