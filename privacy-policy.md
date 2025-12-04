@@ -5,8 +5,6 @@ permalink: /privacy-policy/
 hide_contact: true
 ---
 
-## Privacy Policy
-
 **Effective date:** 4 December 2025  
 **Company:** K&E Technology Consultants Ltd (“we”, “us”, “our”)  
 **Contact email:** info@ketech.org
