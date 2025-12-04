@@ -11,13 +11,9 @@ hide_contact: true
 
 These Terms govern your use of our iOS applications and any related services we make available (collectively, the "Apps"). By downloading, accessing, or using an App, you agree to these Terms. If you do not agree, do not use the Apps.
 
----
-
 ## 1. Who These Terms Apply To
 
 The Apps are intended for a general audience, including both children and adults. If you are under the age of legal majority where you live, you may use the Apps only with permission of a parent or legal guardian who agrees to these Terms.
-
----
 
 ## 2. License to Use the Apps
 
@@ -25,15 +21,11 @@ Subject to your compliance with these Terms, K&E grants you a limited, non-exclu
 
 We reserve all rights not expressly granted to you.
 
----
-
 ## 3. Ads and Third-Party Content
 
 The Apps may display advertisements, including ads provided by third-party networks such as Google or other major providers. Ads may be contextual or general in nature.
 
-We do not control third-party ads or sites that may be linked from ads. If you click on a third-party ad or link, you do so at your own risk and subject to that third party’s terms and policies. K&E is not responsible for third-party content, products, or services.
-
----
+We do not control third-party ads or sites that may be linked from ads. If you click on a third-party ad or link, you do so at your own risk and subject to that third party's terms and policies. K&E is not responsible for third-party content, products, or services.
 
 ## 4. In-App Purchases and Subscriptions
 
@@ -52,9 +44,7 @@ You can manage or cancel subscriptions in your Apple ID account settings after p
 Apple handles all billing and refunds. K&E cannot issue refunds directly. Refund requests must be made through Apple.
 
 **Changes**
-We may change subscription offerings (pricing, features, or availability) to the extent permitted by Apple’s rules and applicable law. Any changes will apply to future periods unless otherwise required.
-
----
+We may change subscription offerings (pricing, features, or availability) to the extent permitted by Apple's rules and applicable law. Any changes will apply to future periods unless otherwise required.
 
 ## 5. No Account Registration / Minimal Data Handling
 
@@ -63,8 +53,6 @@ The Apps do not require account registration and are designed not to collect per
 However, **third-party services** used in the Apps (such as ad networks or Apple’s purchase systems) may collect limited data necessary to provide their services (for example, showing ads or processing purchases). Their data handling is governed by their own policies.
 
 Please review our Privacy Policy (if provided alongside the App or on our website) for more detail.
-
----
 
 ## 6. Acceptable Use
 
@@ -77,21 +65,15 @@ You agree not to:
 
 We may suspend or terminate access to an App if you violate these Terms.
 
----
-
 ## 7. Intellectual Property
 
 The Apps, including all content, software, designs, logos, and trademarks, are owned by or licensed to K&E and are protected by intellectual property laws. You may not copy, modify, distribute, sell, lease, or create derivative works from any part of the Apps unless we give you written permission.
-
----
 
 ## 8. App Updates and Availability
 
 We may update or modify the Apps at any time, including adding, removing, or changing features. We do not guarantee that any App, feature, or content will always be available.
 
 We may stop supporting or distributing an App at any time.
-
----
 
 ## 9. Disclaimer of Warranties
 
@@ -104,8 +86,6 @@ We do not warrant that:
 - the Apps will meet your requirements, or
 - defects will be corrected.
 
----
-
 ## 10. Limitation of Liability
 
 To the maximum extent permitted by law:
@@ -115,22 +95,16 @@ To the maximum extent permitted by law:
 
 Nothing in these Terms limits liability that cannot be excluded under law (such as liability for death or personal injury caused by negligence, or fraud).
 
----
-
 ## 11. Indemnity
 
 You agree to indemnify and hold harmless K&E from and against any claims, damages, losses, liabilities, and expenses (including reasonable legal fees) arising from your use of the Apps or violation of these Terms.
-
----
 
 ## 12. Children and Parental Guidance
 
 Because the Apps are intended for both children and adults:
 
-- Parents/guardians should supervise children’s use and help them understand safe device and purchasing practices.
-- In-App purchases are optional and can be restricted using Apple’s Screen Time / parental controls.
-
----
+- Parents/guardians should supervise children's use and help them understand safe device and purchasing practices.
+- In-App purchases are optional and can be restricted using Apple's Screen Time / parental controls.
 
 ## 13. Apple-Specific Terms
 
@@ -144,22 +118,16 @@ To the extent permitted by law, Apple has no warranty obligations for the Apps, 
 
 If a third party claims that an App infringes their intellectual property rights, K&E—not Apple—will be responsible for investigating, defending, settling, and discharging such claims.
 
----
-
 ## 14. Governing Law
 
 These Terms are governed by the laws of **England and Wales**, without regard to conflict of law principles.  
 Courts located in England and Wales will have exclusive jurisdiction over disputes arising from or relating to these Terms or the Apps, except where consumer protection laws require otherwise.
-
----
 
 ## 15. Changes to These Terms
 
 We may update these Terms from time to time. If we make material changes, we will update the "Effective date" above and, where practical, provide notice within the App or on our website.
 
 Your continued use of the Apps after changes take effect means you accept the updated Terms.
-
----
 
 ## 16. Contact Us
 
