@@ -6,8 +6,7 @@ hide_contact: true
 ---
 
 **Effective date:** 4 December 2025  
-**Company:** K&E Technology Consultants Ltd ("K&E", "we", "us", "our")  
-**Contact:** info@ketech.org
+**Company:** K&E Technology Consultants Ltd ("K&E", "we", "us", "our")
 
 These Terms govern your use of our iOS applications and any related services we make available (collectively, the "Apps"). By downloading, accessing, or using an App, you agree to these Terms. If you do not agree, do not use the Apps.
 
@@ -18,6 +17,8 @@ The Apps are intended for a general audience, including both children and adults
 ## 2. License to Use the Apps
 
 Subject to your compliance with these Terms, K&E grants you a limited, non-exclusive, non-transferable, revocable license to download and use the Apps for your personal, non-commercial use on an Apple device that you own or control, in accordance with Apple’s Media Services Terms and Conditions and App Store rules.
+
+This license is limited to use of the Apps on any Apple-branded products that you own or control and as permitted by the Usage Rules set forth in the Apple Media Services Terms and Conditions, except that the Apps may be accessed and used by other accounts associated with you via Family Sharing or volume purchasing.
 
 We reserve all rights not expressly granted to you.
 
@@ -65,17 +66,25 @@ You agree not to:
 
 We may suspend or terminate access to an App if you violate these Terms.
 
-## 7. Intellectual Property
+## 7. Third-Party Terms
+
+You must comply with applicable third-party terms of agreement when using the Apps (for example, your wireless data service agreement when using data-enabled features, and any terms of third-party services, SDKs, or networks integrated into the Apps).
+
+## 8. Legal Compliance (Sanctions and Export Controls)
+
+You represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.
+
+## 9. Intellectual Property
 
 The Apps, including all content, software, designs, logos, and trademarks, are owned by or licensed to K&E and are protected by intellectual property laws. You may not copy, modify, distribute, sell, lease, or create derivative works from any part of the Apps unless we give you written permission.
 
-## 8. App Updates and Availability
+## 10. App Updates and Availability
 
 We may update or modify the Apps at any time, including adding, removing, or changing features. We do not guarantee that any App, feature, or content will always be available.
 
 We may stop supporting or distributing an App at any time.
 
-## 9. Disclaimer of Warranties
+## 11. Disclaimer of Warranties
 
 To the maximum extent permitted by law, the Apps are provided **"as is"** and **"as available."**  
 K&E disclaims all warranties and conditions, whether express, implied, or statutory, including implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
@@ -86,7 +95,7 @@ We do not warrant that:
 - the Apps will meet your requirements, or
 - defects will be corrected.
 
-## 10. Limitation of Liability
+## 12. Limitation of Liability
 
 To the maximum extent permitted by law:
 
@@ -95,22 +104,30 @@ To the maximum extent permitted by law:
 
 Nothing in these Terms limits liability that cannot be excluded under law (such as liability for death or personal injury caused by negligence, or fraud).
 
-## 11. Indemnity
+## 13. Indemnity
 
 You agree to indemnify and hold harmless K&E from and against any claims, damages, losses, liabilities, and expenses (including reasonable legal fees) arising from your use of the Apps or violation of these Terms.
 
-## 12. Children and Parental Guidance
+## 14. Children and Parental Guidance
 
 Because the Apps are intended for both children and adults:
 
 - Parents/guardians should supervise children's use and help them understand safe device and purchasing practices.
 - In-App purchases are optional and can be restricted using Apple's Screen Time / parental controls.
 
-## 13. Apple-Specific Terms
+## 15. Apple-Specific Terms
 
-These Terms are between you and K&E, not Apple. Apple is not responsible for the Apps or their content.
+For purposes of this section, each App is a "Licensed Application".
 
-To the extent permitted by law, Apple has no warranty obligations for the Apps, and Apple is not responsible for addressing claims relating to the Apps, including:
+These Terms are between you and K&E, not Apple. You and K&E acknowledge that Apple is not a party to these Terms, and K&E (not Apple) is solely responsible for the Licensed Application and its content. These Terms do not provide usage rules for the Licensed Application that conflict with the Apple Media Services Terms and Conditions (which you acknowledge you have had the opportunity to review).
+
+**Maintenance and support.** K&E is solely responsible for providing any maintenance and support services for the Licensed Application as specified in these Terms, or as required under applicable law. You and K&E acknowledge that Apple has no obligation whatsoever to furnish any maintenance and support services for the Licensed Application.
+
+**Warranty.** K&E is solely responsible for any product warranties (if any) to the extent not effectively disclaimed under applicable law. In the event of any failure of the Licensed Application to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price (if any) for the Licensed Application to you. To the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the Licensed Application, and any other claims, losses, liabilities, damages, costs, or expenses attributable to any failure to conform to any warranty are K&E’s sole responsibility.
+
+**Product claims.** You and K&E acknowledge that K&E (not Apple) is responsible for addressing any claims by you or any third party relating to the Licensed Application or your possession and/or use of the Licensed Application, including (without limitation): (i) product liability claims; (ii) any claim that the Licensed Application fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection, privacy, or similar laws, including in connection with the Licensed Application’s use of the HealthKit and HomeKit frameworks (if applicable). Nothing in these Terms limits K&E’s liability to you beyond what is permitted by applicable law.
+
+Apple is not responsible for addressing claims relating to the Licensed Application, including:
 
 - product liability claims,
 - claims that the App fails to conform to legal or regulatory requirements, or
@@ -118,18 +135,24 @@ To the extent permitted by law, Apple has no warranty obligations for the Apps, 
 
 If a third party claims that an App infringes their intellectual property rights, K&E—not Apple—will be responsible for investigating, defending, settling, and discharging such claims.
 
-## 14. Governing Law
+**Third-party beneficiary.** You and K&E acknowledge and agree that Apple and Apple’s subsidiaries are third-party beneficiaries of these Terms as they relate to the Licensed Application, and that upon your acceptance of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as a third-party beneficiary thereof.
+
+## 16. Governing Law
 
 These Terms are governed by the laws of **England and Wales**, without regard to conflict of law principles.  
 Courts located in England and Wales will have exclusive jurisdiction over disputes arising from or relating to these Terms or the Apps, except where consumer protection laws require otherwise.
 
-## 15. Changes to These Terms
+## 17. Changes to These Terms
 
 We may update these Terms from time to time. If we make material changes, we will update the "Effective date" above and, where practical, provide notice within the App or on our website.
 
 Your continued use of the Apps after changes take effect means you accept the updated Terms.
 
-## 16. Contact Us
+## 18. Contact Us
 
-Questions about these Terms? Contact us at:  
-**info@ketech.org**
+Questions about these Terms? Contact us at:
+
+**K&E Technology Consultants Ltd**  
+**Company address:** 71-75 Shelton Street, Covent Garden, London, United Kingdom, WC2H 9JQ
+**Info:** info@ketech.org  
+**Support:** support@ketech.org
