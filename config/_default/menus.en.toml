@@ -1,0 +1,38 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Apps"
+url = "/apps"
+weight = 2
+
+[[main]]
+name = "Support"
+url = "/support"
+weight = 3
+
+[[main]]
+name = "Contact"
+url = "/contact"
+weight = 4
+
+# footer menu
+[[footer]]
+name = "Privacy Policy"
+url = "/privacy-policy"
+weight = 1
+
+[[footer]]
+name = "Terms of Service"
+url = "/terms-of-service"
+weight = 2
+
+[[footer]]
+name = "Support"
+url = "/support"
+weight = 3

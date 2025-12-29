@@ -1,32 +1,17 @@
-# Jekyll build output
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
-
-# Bundler
-vendor/bundle/
-.bundle/
-Gemfile.lock
-
-# macOS
+Thumbs.db
 .DS_Store
-.AppleDouble
-.LSOverride
-
-# Editor directories and files
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-.project
-.classpath
-.settings/
-
-# Logs
-*.log
-
-# Temporary files
-*.tmp
-*.bak
+.dist
+.tmp
+.lock
+.sass-cache
+npm-debug.log
+node_modules
+builds
+package-lock.json
+public
+resources
+.hugo_build.lock
+jsconfig.json
+hugo_stats.json
+go.sum
+yarn.lock
