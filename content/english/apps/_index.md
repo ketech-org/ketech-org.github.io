@@ -1,12 +1,5 @@
 ---
 title: "Apps"
-description: "Our mobile applications"
+description: "Explore our suite of applications designed to enhance your digital life."
 draft: false
-layout: regular
 ---
-
-Coming soon...
-
-## Our Apps
-
-Stay tuned for updates on our latest iOS applications.
