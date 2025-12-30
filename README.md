@@ -1,47 +1,15 @@
-# K&E Technology Consultants Ltd — Website
+# K&E Technology Consultants — Published Site
 
-This repository contains the company website built with [Hugo](https://gohugo.io/) (extended) and Tailwind CSS, based on the **Hugoplate** theme.
+This repository contains **only the generated static site** that GitHub Pages serves at `ketech.org`. The Hugo source lives next door in `../ketech-org` (private).
 
-## Quickstart
+## Updating the site
+1) `cd ../ketech-org`  
+2) `make install` (first time)  
+3) `make build` (or `make publish`) to write into `../ketech-org.github.io`  
+4) Commit and push the changes from this repo.
 
-Prereqs:
-- Hugo **extended** (see `config/_default/module.toml` for minimum version)
-- Go (for Hugo Modules)
-- Node.js (for the theme generator / Tailwind pipeline)
+## Local preview
+- From this repo: `make serve` (simple static server).  
+- From the source repo: `make serve` (Hugo with live reload; also writes to this output).
 
-Common commands:
-- Install JS deps: `make install`
-- Run locally: `make serve`
-- Build: `make build`
-- Clean build artifacts: `make clean`
-
-If you’re actively changing design tokens / Tailwind output, use the template scripts:
-- Dev (theme generator + Hugo server): `npm run dev`
-- Production build: `npm run build`
-
-## Theme updates (sync from upstream)
-
-The Hugoplate theme is consumed via **Hugo Modules** (see `config/_default/module.toml`).
-
-- Update Hugoplate to latest: `make theme-sync`
-- Pin Hugoplate to a version/commit: `make theme-pin REF=vX.Y.Z` (or `REF=<commit>`)
-
-After syncing, commit the resulting `go.mod`/`go.sum` changes.
-
-## Customization layout
-
-Keep site-specific changes in this repo so upstream theme updates stay easy:
-- `config/`, `hugo.toml` — site configuration
-- `content/`, `data/`, `i18n/`, `static/` — site content/assets
-- `layouts/` — template overrides (Hugo lookup order prefers site files over theme/module)
-- `assets/` — CSS/JS/image pipeline inputs (site overrides win)
-
-More detailed notes: `DEVELOPER_DOCS.md`.
-
-## Deployment
-
-This repo includes build configs for common hosts:
-- Netlify: `netlify.toml`
-- Vercel: `vercel.json`, `vercel-build.sh`
-- AWS Amplify: `amplify.yml`
-
+Please avoid editing files here directly—changes will be overwritten by the next publish.

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Products on K&amp;E Tech</title>
+    <link>http://localhost:1313/products/</link>
+    <description>Recent content in Products on K&amp;E Tech</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Dec 2025 00:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WatchLess – TL;DR for videos</title>
+      <link>http://localhost:1313/products/watchless/</link>
+      <pubDate>Mon, 29 Dec 2025 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/products/watchless/</guid>
+      <description>&lt;div style=&#34;text-align: center; margin-bottom: 40px; font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif;&#34;&gt;&#xA;  &lt;img src=&#34;icon.jpg&#34; alt=&#34;WatchLess Icon&#34; style=&#34;width: 150px; height: 150px; border-radius: 22%; box-shadow: 0 10px 20px rgba(0,0,0,0.15); margin-bottom: 20px;&#34;&gt;&#xA;  &lt;h1 style=&#34;font-size: 3em; margin-bottom: 0.2em; font-weight: 700;&#34;&gt;WatchLess&lt;/h1&gt;&#xA;  &lt;p style=&#34;font-size: 1.5em; color: #666; font-weight: 300; margin-bottom: 1.5em;&#34;&gt;Watch less. Video summaries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TempoBlocks</title>
+      <link>http://localhost:1313/products/tempoblocks/</link>
+      <pubDate>Fri, 29 Dec 2023 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/products/tempoblocks/</guid>
+      <description>&lt;div style=&#34;text-align: center; margin-bottom: 40px; font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif;&#34;&gt;&#xA;  &lt;img src=&#34;icon.webp&#34; alt=&#34;TempoBlocks Icon&#34; style=&#34;width: 150px; height: 150px; border-radius: 22%; box-shadow: 0 10px 20px rgba(0,0,0,0.15); margin-bottom: 20px;&#34;&gt;&#xA;  &lt;h1 style=&#34;font-size: 3em; margin-bottom: 0.2em; font-weight: 700;&#34;&gt;TempoBlocks&lt;/h1&gt;&#xA;  &lt;p style=&#34;font-size: 1.5em; color: #666; font-weight: 300; margin-bottom: 1.5em;&#34;&gt;Metronome. Code. Play.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
