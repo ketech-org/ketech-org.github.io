@@ -2,18 +2,18 @@
 
 # main menu
 [[main]]
-name = "Home"
-url = "/"
+name = "Products"
+url = "/products"
 weight = 1
 
 [[main]]
-name = "Apps"
-url = "/apps"
+name = "Consulting"
+url = "/consulting"
 weight = 2
 
 [[main]]
-name = "Support"
-url = "/support"
+name = "Blog"
+url = "/blog"
 weight = 3
 
 [[main]]
