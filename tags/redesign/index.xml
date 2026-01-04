@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Redesign on K&amp;E Tech</title>
-    <link>/tags/redesign/</link>
+    <link>http://localhost:1313/tags/redesign/</link>
     <description>Recent content in Redesign on K&amp;E Tech</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 May 2024 10:00:00 -0500</lastBuildDate>
-    <atom:link href="/tags/redesign/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/redesign/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to K&amp;E Tech</title>
-      <link>/engineering/first-post/</link>
+      <link>http://localhost:1313/engineering/first-post/</link>
       <pubDate>Mon, 20 May 2024 10:00:00 -0500</pubDate>
-      <guid>/engineering/first-post/</guid>
+      <guid>http://localhost:1313/engineering/first-post/</guid>
       <description>&lt;h1 id=&#34;welcome&#34;&gt;Welcome!&lt;/h1&gt;&#xA;&lt;p&gt;We are excited to unveil our refreshed website and updated service offerings. K&amp;amp;E Tech has always been about quality and innovation, and our new digital home reflects that.&lt;/p&gt;</description>
     </item>
   </channel>

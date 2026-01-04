@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on K&amp;E Tech</title>
-    <link>/authors/</link>
+    <link>http://localhost:1313/authors/</link>
     <description>Recent content in Authors on K&amp;E Tech</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 Jan 2026 00:00:00 -0500</lastBuildDate>
-    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hal Wang</title>
-      <link>/authors/hal/</link>
+      <link>http://localhost:1313/authors/hal/</link>
       <pubDate>Sat, 03 Jan 2026 00:00:00 -0500</pubDate>
-      <guid>/authors/hal/</guid>
+      <guid>http://localhost:1313/authors/hal/</guid>
       <description>&lt;p&gt;Hal is the &lt;strong&gt;Founder and Principal Engineer&lt;/strong&gt; of K&amp;amp;E Technology Consultants.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Editor</title>
-      <link>/authors/editor/</link>
+      <link>http://localhost:1313/authors/editor/</link>
       <pubDate>Mon, 20 May 2024 10:00:00 -0500</pubDate>
-      <guid>/authors/editor/</guid>
+      <guid>http://localhost:1313/authors/editor/</guid>
       <description>&lt;p&gt;The official editorial account for K&amp;amp;E Technology Consultants. Follow here for company news, product announcements, and release notes.&lt;/p&gt;</description>
     </item>
   </channel>

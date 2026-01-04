@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on K&amp;E Tech</title>
-    <link>/pages/</link>
+    <link>http://localhost:1313/pages/</link>
     <description>Recent content in Pages on K&amp;E Tech</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Privacy Policy</title>
-      <link>/privacy-policy/</link>
+      <link>http://localhost:1313/privacy-policy/</link>
       <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>/privacy-policy/</guid>
+      <guid>http://localhost:1313/privacy-policy/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Effective date:&lt;/strong&gt; 4 December 2025&lt;br&gt;&#xA;&lt;strong&gt;Company:&lt;/strong&gt; K&amp;amp;E Technology Consultants Ltd (“we”, “us”, “our”)&lt;br&gt;&#xA;&lt;strong&gt;Contact email:&lt;/strong&gt; &lt;a href=&#34;mailto:info@ketech.org&#34;&#xA;&#xA;&#xA;&#xA; &#xA;&#xA;&#xA;&gt;info@ketech.org&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Support</title>
-      <link>/support/</link>
+      <link>http://localhost:1313/support/</link>
       <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>/support/</guid>
+      <guid>http://localhost:1313/support/</guid>
       <description>&lt;p&gt;Need help with any of our mobile apps? We’re here.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Terms of Service</title>
-      <link>/terms-of-service/</link>
+      <link>http://localhost:1313/terms-of-service/</link>
       <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>/terms-of-service/</guid>
+      <guid>http://localhost:1313/terms-of-service/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Effective date:&lt;/strong&gt; 4 December 2025&lt;br&gt;&#xA;&lt;strong&gt;Company:&lt;/strong&gt; K&amp;amp;E Technology Consultants Ltd (&amp;ldquo;K&amp;amp;E&amp;rdquo;, &amp;ldquo;we&amp;rdquo;, &amp;ldquo;us&amp;rdquo;, &amp;ldquo;our&amp;rdquo;)&lt;/p&gt;</description>
     </item>
   </channel>

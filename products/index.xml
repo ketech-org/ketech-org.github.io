@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Products on K&amp;E Tech</title>
-    <link>/products/</link>
+    <link>http://localhost:1313/products/</link>
     <description>Recent content in Products on K&amp;E Tech</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Jan 2026 00:00:00 -0500</lastBuildDate>
-    <atom:link href="/products/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WatchLess</title>
-      <link>/products/watchless/</link>
+      <link>http://localhost:1313/products/watchless/</link>
       <pubDate>Mon, 29 Dec 2025 00:00:00 -0500</pubDate>
-      <guid>/products/watchless/</guid>
+      <guid>http://localhost:1313/products/watchless/</guid>
       <description>&lt;div style=&#34;max-width: 800px; margin: 0 auto; line-height: 1.6; font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif;&#34;&gt;&#xA;  &lt;p style=&#34;font-size: 1.1em; margin-bottom: 30px;&#34;&gt;&#xA;    &lt;strong&gt;Too many long videos and not enough time?&lt;/strong&gt;&lt;br&gt;&#xA;    WatchLess helps you understand videos without watching them. Just share a video link to WatchLess and get a clear, concise TL;DR in seconds. No setup required.&#xA;  &lt;/p&gt;</description>
     </item>
     <item>
       <title>TempoBlocks</title>
-      <link>/products/tempoblocks/</link>
+      <link>http://localhost:1313/products/tempoblocks/</link>
       <pubDate>Fri, 29 Dec 2023 00:00:00 -0500</pubDate>
-      <guid>/products/tempoblocks/</guid>
+      <guid>http://localhost:1313/products/tempoblocks/</guid>
       <description>&lt;h2 id=&#34;the-product&#34;&gt;The Product&lt;/h2&gt;&#xA;&lt;p&gt;TempoBlocks is an intuitive metronome that goes beyond keeping time. It combines a clean, friendly interface with a block-based language that lets users build, customize, and explore rhythms through visual programming.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Project Wen</title>
-      <link>/products/wen/</link>
+      <link>http://localhost:1313/products/wen/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 -0500</pubDate>
-      <guid>/products/wen/</guid>
+      <guid>http://localhost:1313/products/wen/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Status: Active R&amp;amp;D / Coming 2026&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Project Wen&lt;/strong&gt; (文) is an initiative to reconnect with the soul of Ancient Chinese poetry.&lt;/p&gt;</description>
     </item>
   </channel>
