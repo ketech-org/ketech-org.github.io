@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>React on K&amp;E Tech</title>
+    <link>/tags/react/</link>
+    <description>Recent content in React on K&amp;E Tech</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Jan 2026 00:00:00 -0500</lastBuildDate>
+    <atom:link href="/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DesignForge: Engineering Beauty at Scale</title>
+      <link>/engineering/design-forge/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 -0500</pubDate>
+      <guid>/engineering/design-forge/</guid>
+      <description>Bridging the gap between functional AI-generated code and premium aesthetic quality through a curated repository of handcrafted UI studies.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,71 @@
+---
+title: "Consulting Services (Original Article)"
+meta_title: "High-Performance Engineering Consulting | K&E Tech"
+description: "From hyper-scale distributed systems to AI-native product development. We solve hard engineering problems and deliver rapid innovation."
+draft: true
+layout: "single"
+---
+
+# Engineering for the Age of AI
+
+We help businesses bridge the gap between **hyper-scale distributed systems** and **rapid, AI-native product development**. 
+
+In a world where technology evolves weekly, you don't just need a developer. You need a partner who has built systems for **200 million users** and launched AI products **from zero to store** in weeks.
+
+---
+
+## I. Performance is a Feature
+
+Modern users have zero patience for latency. We bring the architectural discipline of top-tier tech giants to your infrastructure.
+
+### The Scale Story: Optimizing TikTok
+At **ByteDance (TikTok)**, we tackled one of the world's most demanding engineering challenges: the Discovery Page API. 
+
+*   **The Problem:** Serving 200M+ Daily Active Users (DAU) with a legacy Python architecture that was hitting a latency wall (800ms+).
+*   **The Solution:** We led the migration to a high-concurrency **Go** architecture, introducing parallel RPC pipelines and a robust fallback caching layer.
+*   **The Result:** 
+    *   Latency slashed from **839ms** to **187ms**.
+    *   Error rates reduced from **1.3%** to **0.0004%**.
+
+### The Infrastructure Story: Custom Innovation
+Standard tools don't always fit. At **Appcoach**, when off-the-shelf Kafka clients became a bottleneck for our real-time bidding network, we didn't just complain. We built **SEJ**, a custom distributed message queue, achieving **2,000+ QPS per core** with **sub-10ms** latency. 
+
+**We don't just use the cloud. We engineer it.**
+
+---
+
+## II. Solving the Hard Problems
+
+Not every problem is a CRUD app. We thrive in the deep end of engineering—where heavy mathematics, complex domains, and strict reliability meet.
+
+### The Complexity Story: Maritime Intelligence
+At **90poe**, we architected global weather services processing **2TB of data annually**. This wasn't simple data movement; it required implementing strict **spherical geometry algorithms** for vessel voyage estimation and rhumb line tracking. 
+
+### The Precision Story: Compiler Design
+At **IBM/SPSS**, we fixed a critical, long-standing logic flaw in an enterprise visual filter editor. How? By ripping out a fragile Regular Expression system and writing a robust **Recursive Descent Parser** from scratch. 
+
+**We solve root causes, not just symptoms.**
+
+---
+
+## III. Rapid Delivery in New Domains
+
+The most valuable skill in the AI age is **adaptability**. We combine deep engineering roots with modern AI tools to master new stacks instantly.
+
+### The Agile Story: AI-Native Development
+We believe the future of coding is **human intent amplified by AI**. To prove it, we went from zero knowledge of the Apple ecosystem to shipping two featured iOS apps—**WatchLess** and **TempoBlocks**—in record time.
+
+We leverage AI to handle the "how" (syntax, boilerplate, libraries) so we can focus entirely on the "what" (Product Value, User Experience, Architecture).
+
+### The Modern Web Story: Privacy & Performance
+At **Venatus**, we architected complex header-bidding solutions using **TypeScript** while navigating strict TCF v2.2 privacy laws. We proved that you can respect user privacy without sacrificing ad revenue or page performance.
+
+**We don't just know the stack. We master the stack you need, when you need it.**
+
+---
+
+## Ready to Build?
+
+Whether you need to scale a backend to millions of users, solve a mathematical bottleneck, or prototype a new product idea next week—we are ready.
+
+[Contact Us](/contact)

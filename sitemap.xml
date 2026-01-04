@@ -2,53 +2,152 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>/products/watchless/</loc>
     <lastmod>2025-12-29T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/</loc>
-    <lastmod>2025-12-29T00:00:00-05:00</lastmod>
+    <loc>/products/tempoblocks/</loc>
+    <lastmod>2024-01-02T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/watchless/</loc>
-    <lastmod>2025-12-29T00:00:00-05:00</lastmod>
+    <loc>/products/wen/</loc>
+    <lastmod>2026-01-01T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pages/</loc>
+    <loc>/authors/</loc>
+    <lastmod>2026-01-03T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/tags/design-systems/</loc>
+    <lastmod>2026-01-03T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/engineering/design-forge/</loc>
+    <lastmod>2026-01-03T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/engineering/</loc>
+    <lastmod>2026-01-03T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/tags/frontend-architecture/</loc>
+    <lastmod>2026-01-03T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/authors/hal/</loc>
+    <lastmod>2026-01-03T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-01-03T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/tags/react/</loc>
+    <lastmod>2026-01-03T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2026-01-03T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/tags/vite/</loc>
+    <lastmod>2026-01-03T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/products/</loc>
+    <lastmod>2026-01-01T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/pages/</loc>
     <lastmod>2025-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/privacy-policy/</loc>
+    <loc>/privacy-policy/</loc>
     <lastmod>2025-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/support/</loc>
+    <loc>/support/</loc>
     <lastmod>2025-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/terms-of-service/</loc>
+    <loc>/terms-of-service/</loc>
     <lastmod>2025-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/announcement/</loc>
+    <loc>/tags/announcement/</loc>
     <lastmod>2024-05-20T10:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2024-05-20T10:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/company-news/</loc>
+    <loc>/categories/company-news/</loc>
     <lastmod>2024-05-20T10:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>/authors/editor/</loc>
     <lastmod>2024-05-20T10:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/redesign/</loc>
+    <loc>/tags/redesign/</loc>
     <lastmod>2024-05-20T10:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>/engineering/first-post/</loc>
     <lastmod>2024-05-20T10:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/first-post/</loc>
-    <lastmod>2024-05-20T10:00:00-05:00</lastmod>
+    <loc>/tags/go/</loc>
+    <lastmod>2023-04-22T17:50:04+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/tempoblocks/</loc>
-    <lastmod>2023-12-29T00:00:00-05:00</lastmod>
+    <loc>/engineering/go-pattern-hybrid-handler/</loc>
+    <lastmod>2023-04-22T17:50:04+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/consulting/</loc>
+    <loc>/tags/hybrid-runner/</loc>
+    <lastmod>2023-04-22T17:50:04+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>/tags/pattern/</loc>
+    <lastmod>2023-04-22T17:50:04+01:00</lastmod>
+  </url><url>
+    <loc>/tags/runner/</loc>
+    <lastmod>2023-04-22T17:50:04+01:00</lastmod>
+  </url><url>
+    <loc>/engineering/go-pattern-runner/</loc>
+    <lastmod>2022-02-22T14:46:35+00:00</lastmod>
+  </url><url>
+    <loc>/tags/anti-pattern/</loc>
+    <lastmod>2021-01-08T10:48:26+00:00</lastmod>
+  </url><url>
+    <loc>/tags/closer/</loc>
+    <lastmod>2021-01-08T10:48:26+00:00</lastmod>
+  </url><url>
+    <loc>/engineering/go-anti-patterns-parent-closer/</loc>
+    <lastmod>2021-01-08T10:48:26+00:00</lastmod>
+  </url><url>
+    <loc>/tags/context/</loc>
+    <lastmod>2020-11-30T17:45:31+00:00</lastmod>
+  </url><url>
+    <loc>/engineering/go-pattern-context-aware-lock/</loc>
+    <lastmod>2020-11-30T17:45:31+00:00</lastmod>
+  </url><url>
+    <loc>/tags/lock/</loc>
+    <lastmod>2020-11-30T17:45:31+00:00</lastmod>
+  </url><url>
+    <loc>/tags/mutex/</loc>
+    <lastmod>2020-11-30T17:45:31+00:00</lastmod>
+  </url><url>
+    <loc>/tags/batch/</loc>
+    <lastmod>2020-11-22T17:38:34+00:00</lastmod>
+  </url><url>
+    <loc>/tags/buffered-writer/</loc>
+    <lastmod>2020-11-22T17:38:34+00:00</lastmod>
+  </url><url>
+    <loc>/tags/builder/</loc>
+    <lastmod>2020-11-22T17:38:34+00:00</lastmod>
+  </url><url>
+    <loc>/tags/end-to-end-principle/</loc>
+    <lastmod>2020-11-22T17:38:34+00:00</lastmod>
+  </url><url>
+    <loc>/engineering/go-pattern-buffered-writer/</loc>
+    <lastmod>2020-11-22T17:38:34+00:00</lastmod>
+  </url><url>
+    <loc>/tags/unit-of-work/</loc>
+    <lastmod>2020-11-22T17:38:34+00:00</lastmod>
+  </url><url>
+    <loc>/tags/benchmark/</loc>
+    <lastmod>2020-06-19T13:58:46+01:00</lastmod>
+  </url><url>
+    <loc>/tags/pointer/</loc>
+    <lastmod>2020-06-19T13:58:46+01:00</lastmod>
+  </url><url>
+    <loc>/tags/receivers/</loc>
+    <lastmod>2020-06-19T13:58:46+01:00</lastmod>
+  </url><url>
+    <loc>/tags/value/</loc>
+    <lastmod>2020-06-19T13:58:46+01:00</lastmod>
+  </url><url>
+    <loc>/engineering/value-vs-pointer-receivers/</loc>
+    <lastmod>2020-06-19T13:58:46+01:00</lastmod>
+  </url><url>
+    <loc>/consulting/</loc>
+  </url><url>
+    <loc>/contact/</loc>
   </url>
 </urlset>

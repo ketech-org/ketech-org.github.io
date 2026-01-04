@@ -4,7 +4,7 @@
   class=""
   lang="en-us"
   itemtype="http://schema.org/WebPage">
-  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <head>
     
     <meta charset="utf-8" />
 
@@ -123,7 +123,7 @@
 
 
 
-<meta name="description" content="Explore our suite of innovative products designed to enhance your digital life." />
+<meta name="description" content="Cognitive tools for the Age of AI." />
 
 
 
@@ -161,8 +161,8 @@
       
       
       
-        <meta property="og:image" content="http://localhost:1313/images/og-image.png" />
-        <meta name="twitter:image" content="http://localhost:1313/images/og-image.png" />
+        <meta property="og:image" content="/images/og-image.png" />
+        <meta name="twitter:image" content="/images/og-image.png" />
         <meta
           name="twitter:card"
           content="summary_large_image" />
@@ -187,13 +187,13 @@
 
 
 <meta property="og:title" content="Products" />
-<meta property="og:description" content="Explore our suite of innovative products designed to enhance your digital life." />
+<meta property="og:description" content="Cognitive tools for the Age of AI." />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="http://localhost:1313/products/" />
+<meta property="og:url" content="/products/" />
 
 
 <meta name="twitter:title" content="Products" />
-<meta name="twitter:description" content="Explore our suite of innovative products designed to enhance your digital life." />
+<meta name="twitter:description" content="Cognitive tools for the Age of AI." />
 
 
   <meta name="twitter:site" content="@zeon_studio" />
@@ -224,7 +224,7 @@
 
 
 <script>
-  let indexURL = "http://localhost:1313/searchindex.json";
+  let indexURL = "/searchindex.json";
   let includeSectionsInSearch = ["blog"];
   let search_no_results = "No results for";
   let search_initial_message = "Type something to search..";
@@ -332,19 +332,22 @@
 
 
 
+  
+  
+
 
 
 
 <link
-  href="/css/style.css"
-  integrity=""
+  href="/css/style.e14a354552b19434a366c9f07cf6579decc2a3326af96bfab0dd3aeecf58314b.css"
+  integrity="sha256-4Uo1RVKxlDSjZsnwfPZXnezCozJq&#43;Wv6sN067s9YMUs="
   rel="stylesheet" />
 
 
 <link
   rel="stylesheet"
-  href="/css/style-lazy.css"
-  integrity=""
+  href="/css/style-lazy.min.9e7e035d2f064fe004383f2ffc11a8f2966ef7b51c5fb2fac926e35c0061b5cf.css"
+  integrity="sha256-nn4DXS8GT&#43;AEOD8v/BGo8pZu97UcX7L6ySbjXABhtc8="
   media="print"
   onload="this.media='all'; this.onload=null;" />
 
@@ -358,18 +361,7 @@
 
 
 
-
-
       
-      <div
-  class="fixed left-0 top-0 z-50 flex w-[30px] items-center justify-center bg-gray-200 py-[2.5px] text-[12px] uppercase text-black sm:bg-red-200 md:bg-yellow-200 lg:bg-green-200 xl:bg-blue-200 2xl:bg-pink-200">
-  <span class="block sm:hidden">all</span>
-  <span class="hidden sm:block md:hidden">sm</span>
-  <span class="hidden md:block lg:hidden">md</span>
-  <span class="hidden lg:block xl:hidden">lg</span>
-  <span class="hidden xl:block 2xl:hidden">xl</span>
-  <span class="hidden 2xl:block">2xl</span>
-</div>
 
     
 
@@ -425,7 +417,8 @@
 
 
     
-    <header class="header sticky top-0 z-30">
+    <header
+    class="header sticky top-0 z-30 bg-white/90 dark:bg-darkmode-theme/90 backdrop-blur-lg border-b border-border/50 dark:border-darkmode-border/50">
     <nav class="navbar container">
         
         <div class="order-0">
@@ -449,7 +442,7 @@
 
 
 <img class="img img-dark" style="height: 40px; width: 40px; max-height: 100%;"
-    src="/images/company_logo.svg" alt="K&amp;E Tech" />
+    src="/images/custom/branding/company_logo.svg" alt="K&amp;E Tech" />
 
 
 
@@ -482,7 +475,8 @@
             
             
             <li class="nav-item">
-                <a class="nav-link "  href="/products">Products</a>
+                <a  href="/consulting"
+                    class="nav-link inline-block transition-colors hover:text-primary ">Consulting</a>
             </li>
             
             
@@ -491,7 +485,8 @@
             
             
             <li class="nav-item">
-                <a class="nav-link "  href="/consulting">Consulting</a>
+                <a  href="/products"
+                    class="nav-link inline-block transition-colors hover:text-primary ">Products</a>
             </li>
             
             
@@ -500,7 +495,8 @@
             
             
             <li class="nav-item">
-                <a class="nav-link "  href="/blog">Blog</a>
+                <a  href="/engineering"
+                    class="nav-link inline-block transition-colors hover:text-primary ">Engineering</a>
             </li>
             
             
@@ -509,7 +505,8 @@
             
             
             <li class="nav-item">
-                <a class="nav-link "  href="/contact">Contact</a>
+                <a  href="/contact"
+                    class="nav-link inline-block transition-colors hover:text-primary ">Contact</a>
             </li>
             
             
@@ -728,103 +725,214 @@
 
     <main>
       
-<section>
-  <div class="container text-center">
-    <div
-      class="from-body to-light dark:from-darkmode-body dark:to-darkmode-light rounded-2xl bg-gradient-to-b px-8 py-14">
-      <h1>Products</h1>
-      
 
-
-
-
-<ul class="mt-6 inline-flex space-x-1 capitalize">
-  <li>
-    <a class="text-primary dark:text-darkmode-primary" href="http://localhost:1313/">
-      Home
-    </a>
-    <span class="inlin-block mr-1">/</span>
-  </li>
-  
+<section class="section relative pt-32 pb-20 md:pt-40 md:pb-32 min-h-[80vh] flex items-center overflow-hidden">
     
-  
-  <li>
-    <span class="text-primary dark:text-darkmode-primary">
-      Products
-    </span>
-  </li>
-</ul>
-
-    </div>
-  </div>
-</section>
+    
 
 
-<section class="section pt-0">
-    <div class="container">
-        <div class="row justify-center">
+
+
+
+
+
+
+
+
+
+
+
+<div class="absolute inset-0 z-0 pointer-events-none">
+    
+    
+
+    
+    
+    
+    
+    <img src="/images/hero-background.png" alt="Hero Background"
+        class="absolute inset-0 w-full h-full object-cover filter blur-sm opacity-40 hidden dark:block"
+        style="view-transition-name: hero-bg;">
+    <img src="/images/hero-background-light.png" alt="Hero Background"
+        class="absolute inset-0 w-full h-full object-cover filter blur-sm opacity-50 block dark:hidden"
+        style="view-transition-name: hero-bg-light;">
+    
+
+    
+</div>
+
+
+<div
+    class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[500px] h-[500px] bg-primary/20 rounded-full blur-[100px] pointer-events-none z-0">
+</div>
+
+    <div class="container mx-auto relative z-10">
+        <div class="max-w-4xl mx-auto text-center">
+            <h1 class="mb-8 text-4xl md:text-6xl font-bold leading-tight">
+                Cognitive Tools
+            </h1>
+
             
-            <div class="mb-8 lg:col-4 md:col-6 sm:col-12">
-                <div
-                    class="h-full rounded-2xl bg-light dark:bg-darkmode-light p-8 text-center shadow-lg transition-all duration-300 hover:shadow-xl hover:-translate-y-1 border border-light dark:border-darkmode-border flex flex-col items-center">
-
-                    
-                    <div class="mb-6 h-36 w-36 overflow-hidden rounded-[22%] shadow-md bg-white">
-                        
-                        
-                        <img src="/products/watchless/icon.jpg" alt="WatchLess – TL;DR for videos" class="h-full w-full object-cover">
-                        
-                    </div>
-
-                    <h3 class="h4 mb-3">
-                        <a href="http://localhost:1313/products/watchless/"
-                            class="block hover:text-primary transition-colors text-text-dark dark:text-white">
-                            WatchLess – TL;DR for videos
-                        </a>
-                    </h3>
-
-                    <p class="mb-6 text-text-dark dark:text-white flex-grow">
-                        Watch less. Video summaries.
-                    </p>
-
-                    <a href="http://localhost:1313/products/watchless/" class="btn btn-primary rounded-full px-8 py-2 mt-auto">
-                        Learn More
-                    </a>
-                </div>
+            <div class="text-xl md:text-2xl font-light leading-relaxed text-gray-600 dark:text-gray-100 mb-8">
+                Intelligence is Abundant. <span class='text-gold'>Agency is Scarce.</span>
             </div>
+
             
-            <div class="mb-8 lg:col-4 md:col-6 sm:col-12">
+            <div class="mb-10 flex flex-wrap justify-center gap-4">
+                
                 <div
-                    class="h-full rounded-2xl bg-light dark:bg-darkmode-light p-8 text-center shadow-lg transition-all duration-300 hover:shadow-xl hover:-translate-y-1 border border-light dark:border-darkmode-border flex flex-col items-center">
-
-                    
-                    <div class="mb-6 h-36 w-36 overflow-hidden rounded-[22%] shadow-md bg-white">
-                        
-                        
-                        <img src="/products/tempoblocks/icon.webp" alt="TempoBlocks" class="h-full w-full object-cover">
-                        
-                    </div>
-
-                    <h3 class="h4 mb-3">
-                        <a href="http://localhost:1313/products/tempoblocks/"
-                            class="block hover:text-primary transition-colors text-text-dark dark:text-white">
-                            TempoBlocks
-                        </a>
-                    </h3>
-
-                    <p class="mb-6 text-text-dark dark:text-white flex-grow">
-                        Metronome. Code. Play.
-                    </p>
-
-                    <a href="http://localhost:1313/products/tempoblocks/" class="btn btn-primary rounded-full px-8 py-2 mt-auto">
-                        Learn More
-                    </a>
+                    class="rounded-full bg-theme-light px-6 py-2 text-sm font-semibold text-dark dark:bg-darkmode-theme-light dark:text-white">
+                    Privacy First
                 </div>
+                
+                <div
+                    class="rounded-full bg-theme-light px-6 py-2 text-sm font-semibold text-dark dark:bg-darkmode-theme-light dark:text-white">
+                    Local Intelligence
+                </div>
+                
+                <div
+                    class="rounded-full bg-theme-light px-6 py-2 text-sm font-semibold text-dark dark:bg-darkmode-theme-light dark:text-white">
+                    Agency Restored
+                </div>
+                
             </div>
+
+            
+            <div class="prose dark:prose-invert mx-auto mb-10 max-w-2xl text-lg text-gray-600 dark:text-gray-200">
+                <p>In a world where AI can answer any question, the bottleneck shifts from <strong>access</strong> to <strong>attention</strong>. We build tools that restore your agency: <strong>WatchLess</strong> respects your time by filtering the noise, <strong>TempoBlocks</strong> amplifies your intuition for rhythm, and <strong>Wen</strong> (coming soon) illuminates Ancient Verse.</p>
+
+            </div>
+
+            
+            <a href="#products-list" class="btn btn-primary btn-lg">
+                Explore Tools
+            </a>
             
         </div>
     </div>
 </section>
+
+<section class="section pt-0" id="products-list">
+    <div class="container">
+
+        
+        <div class="mb-10 border-b border-border dark:border-darkmode-border pb-4">
+        </div>
+
+        
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            
+            
+            <div class="relative group h-full">
+                <div
+                    class="card-unified h-full rounded-2xl bg-gray-50 dark:bg-gray-800 p-8 flex flex-col items-start border border-gray-200 dark:border-white/10">
+
+                    
+                    <div
+                        class="mb-6 h-28 w-28 overflow-hidden rounded-[22%] shadow-md bg-white transform group-hover:scale-105 transition-transform duration-500">
+                        
+                        
+                        <img src="/products/watchless/icon.png" alt="WatchLess" class="h-full w-full object-cover">
+                        
+                    </div>
+
+                    <h3 class="text-2xl font-bold mb-2 text-dark dark:text-white">
+                        <a href="/products/watchless/" class="block">
+                            WatchLess
+                        </a>
+                    </h3>
+
+                    <p class="text-lg text-text-dark/80 dark:text-white/80 mb-8 flex-grow leading-relaxed">
+                        Watch less. TL;DR. Video summaries.
+                    </p>
+
+                    <a href="/products/watchless/" class="link-card-cta mt-auto">
+                        Explore
+                        <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+            
+            <div class="relative group h-full">
+                <div
+                    class="card-unified h-full rounded-2xl bg-gray-50 dark:bg-gray-800 p-8 flex flex-col items-start border border-gray-200 dark:border-white/10">
+
+                    
+                    <div
+                        class="mb-6 h-28 w-28 overflow-hidden rounded-[22%] shadow-md bg-white transform group-hover:scale-105 transition-transform duration-500">
+                        
+                        
+                        <img src="/products/tempoblocks/icon.png" alt="TempoBlocks" class="h-full w-full object-cover">
+                        
+                    </div>
+
+                    <h3 class="text-2xl font-bold mb-2 text-dark dark:text-white">
+                        <a href="/products/tempoblocks/" class="block">
+                            TempoBlocks
+                        </a>
+                    </h3>
+
+                    <p class="text-lg text-text-dark/80 dark:text-white/80 mb-8 flex-grow leading-relaxed">
+                        Metronome. Code. Play.
+                    </p>
+
+                    <a href="/products/tempoblocks/" class="link-card-cta mt-auto">
+                        Explore
+                        <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+            
+            <div class="relative group h-full">
+                <div
+                    class="card-unified h-full rounded-2xl bg-gray-50 dark:bg-gray-800 p-8 flex flex-col items-start border border-gray-200 dark:border-white/10">
+
+                    
+                    <div
+                        class="mb-6 h-28 w-28 overflow-hidden rounded-[22%] shadow-md bg-white transform group-hover:scale-105 transition-transform duration-500">
+                        
+                        
+                        
+                        <img src="/images/products/wen-icon.png" alt="Products" class="h-full w-full object-cover">
+                        
+                        
+                    </div>
+
+                    <h3 class="text-2xl font-bold mb-2 text-dark dark:text-white">
+                        <a href="/products/wen/" class="block">
+                            Project Wen
+                        </a>
+                    </h3>
+
+                    <p class="text-lg text-text-dark/80 dark:text-white/80 mb-8 flex-grow leading-relaxed">
+                        Illuminating Ancient Verse.
+                    </p>
+
+                    <a href="/products/wen/" class="link-card-cta mt-auto">
+                        Explore
+                        <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+            
+
+            
+            
+
+        </div>
+    </div>
+</section>
+
 
     </main>
 
@@ -898,7 +1006,7 @@
     <div
       class="text-text-light dark:text-darkmode-text-light container text-center">
       <p>
-        Copyright © 2025 K&amp;E Technology Consultants Ltd. All rights reserved.
+        Copyright © 2026 K&amp;E Technology Consultants Ltd. All rights reserved.
       </p>
     </div>
   </div>
@@ -974,20 +1082,23 @@
 
 
 
+  
+  
+
 
 
 <script
   crossorigin="anonymous"
-  integrity=""
-  src="/js/script.js"></script>
+  integrity="sha256-fq2IWQj0EO6HybIU5Gh5TC459bLu9aqHAfqz1BythHk="
+  src="/js/script.min.7ead885908f410ee87c9b214e468794c2e39f5b2eef5aa8701fab3d41cad8479.js"></script>
 
 
 <script
   defer
   async
   crossorigin="anonymous"
-  integrity=""
-  src="/js/script-lazy.js"></script>
+  integrity="sha256-ERVlJv0r9BVw&#43;veEd5&#43;D3oOJuHI8UEMwuPAD0a8FNhY="
+  src="/js/script-lazy.min.11156526fd2bf41570faf784779f83de8389b8723c504330b8f003d1af053616.js"></script>
 
 
 

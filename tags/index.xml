@@ -2,24 +2,178 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on K&amp;E Tech</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on K&amp;E Tech</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 May 2024 10:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Jan 2026 00:00:00 -0500</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design Systems</title>
+      <link>/tags/design-systems/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 -0500</pubDate>
+      <guid>/tags/design-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Frontend Architecture</title>
+      <link>/tags/frontend-architecture/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 -0500</pubDate>
+      <guid>/tags/frontend-architecture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>React</title>
+      <link>/tags/react/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 -0500</pubDate>
+      <guid>/tags/react/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vite</title>
+      <link>/tags/vite/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 -0500</pubDate>
+      <guid>/tags/vite/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Announcement</title>
-      <link>http://localhost:1313/tags/announcement/</link>
+      <link>/tags/announcement/</link>
       <pubDate>Mon, 20 May 2024 10:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/announcement/</guid>
+      <guid>/tags/announcement/</guid>
       <description></description>
     </item>
     <item>
       <title>Redesign</title>
-      <link>http://localhost:1313/tags/redesign/</link>
+      <link>/tags/redesign/</link>
       <pubDate>Mon, 20 May 2024 10:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/redesign/</guid>
+      <guid>/tags/redesign/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go</title>
+      <link>/tags/go/</link>
+      <pubDate>Sat, 22 Apr 2023 17:50:04 +0100</pubDate>
+      <guid>/tags/go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hybrid Runner</title>
+      <link>/tags/hybrid-runner/</link>
+      <pubDate>Sat, 22 Apr 2023 17:50:04 +0100</pubDate>
+      <guid>/tags/hybrid-runner/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pattern</title>
+      <link>/tags/pattern/</link>
+      <pubDate>Sat, 22 Apr 2023 17:50:04 +0100</pubDate>
+      <guid>/tags/pattern/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Runner</title>
+      <link>/tags/runner/</link>
+      <pubDate>Sat, 22 Apr 2023 17:50:04 +0100</pubDate>
+      <guid>/tags/runner/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Anti-Pattern</title>
+      <link>/tags/anti-pattern/</link>
+      <pubDate>Fri, 08 Jan 2021 10:48:26 +0000</pubDate>
+      <guid>/tags/anti-pattern/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Closer</title>
+      <link>/tags/closer/</link>
+      <pubDate>Fri, 08 Jan 2021 10:48:26 +0000</pubDate>
+      <guid>/tags/closer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Context</title>
+      <link>/tags/context/</link>
+      <pubDate>Mon, 30 Nov 2020 17:45:31 +0000</pubDate>
+      <guid>/tags/context/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lock</title>
+      <link>/tags/lock/</link>
+      <pubDate>Mon, 30 Nov 2020 17:45:31 +0000</pubDate>
+      <guid>/tags/lock/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mutex</title>
+      <link>/tags/mutex/</link>
+      <pubDate>Mon, 30 Nov 2020 17:45:31 +0000</pubDate>
+      <guid>/tags/mutex/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Batch</title>
+      <link>/tags/batch/</link>
+      <pubDate>Sun, 22 Nov 2020 17:38:34 +0000</pubDate>
+      <guid>/tags/batch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Buffered Writer</title>
+      <link>/tags/buffered-writer/</link>
+      <pubDate>Sun, 22 Nov 2020 17:38:34 +0000</pubDate>
+      <guid>/tags/buffered-writer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Builder</title>
+      <link>/tags/builder/</link>
+      <pubDate>Sun, 22 Nov 2020 17:38:34 +0000</pubDate>
+      <guid>/tags/builder/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>End-to-End Principle</title>
+      <link>/tags/end-to-end-principle/</link>
+      <pubDate>Sun, 22 Nov 2020 17:38:34 +0000</pubDate>
+      <guid>/tags/end-to-end-principle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unit of Work</title>
+      <link>/tags/unit-of-work/</link>
+      <pubDate>Sun, 22 Nov 2020 17:38:34 +0000</pubDate>
+      <guid>/tags/unit-of-work/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Benchmark</title>
+      <link>/tags/benchmark/</link>
+      <pubDate>Fri, 19 Jun 2020 13:58:46 +0100</pubDate>
+      <guid>/tags/benchmark/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pointer</title>
+      <link>/tags/pointer/</link>
+      <pubDate>Fri, 19 Jun 2020 13:58:46 +0100</pubDate>
+      <guid>/tags/pointer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Receivers</title>
+      <link>/tags/receivers/</link>
+      <pubDate>Fri, 19 Jun 2020 13:58:46 +0100</pubDate>
+      <guid>/tags/receivers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Value</title>
+      <link>/tags/value/</link>
+      <pubDate>Fri, 19 Jun 2020 13:58:46 +0100</pubDate>
+      <guid>/tags/value/</guid>
       <description></description>
     </item>
   </channel>

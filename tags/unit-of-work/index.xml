@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unit of Work on K&amp;E Tech</title>
+    <link>/tags/unit-of-work/</link>
+    <description>Recent content in Unit of Work on K&amp;E Tech</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Nov 2020 17:38:34 +0000</lastBuildDate>
+    <atom:link href="/tags/unit-of-work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go Pattern: Buffered Writer</title>
+      <link>/engineering/go-pattern-buffered-writer/</link>
+      <pubDate>Sun, 22 Nov 2020 17:38:34 +0000</pubDate>
+      <guid>/engineering/go-pattern-buffered-writer/</guid>
+      <description>&lt;p&gt;A buffered writer is so ubiquitous that we do not usually consider it as a pattern, but sometimes we reinvent it or even do it in an inferior way. Let us look at a real use case first.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
