@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:v="https://svgstorm.com"
 viewBox = "0 0 256 256"
-width="32"
-height="32">
-<g fill="None" fill-opacity="0.0" stroke="#FFFFFF" stroke-opacity="1.00" stroke-width="0.3"><path d="
+width="256"
+height="256">
+<g fill="None" fill-opacity="0.0" stroke="#000000" stroke-opacity="1.00" stroke-width="0.3"><path d="
 M 0.00 256.00 
 L 256.00 256.00
 L 256.00 0.00
@@ -15,7 +15,7 @@ C 163.00 213.00 104.00 213.00 45.00 213.00
 C 45.00 159.00 45.00 105.00 45.00 51.00
 C 103.67 51.00 162.33 51.00 221.00 51.00 Z"/>
 </g>
-<g fill="None" fill-opacity="0.0" stroke="#121212" stroke-opacity="1.00" stroke-width="0.3"><path d="
+<g fill="None" fill-opacity="0.0" stroke="#FFFFFF" stroke-opacity="1.00" stroke-width="0.3"><path d="
 M 221.00 51.00 
 C 162.33 51.00 103.67 51.00 45.00 51.00
 C 45.00 105.00 45.00 159.00 45.00 213.00
@@ -35,7 +35,7 @@ C 144.00 195.00 103.00 195.00 62.00 195.00
 C 62.00 152.67 62.00 110.33 62.00 68.00
 C 103.00 68.00 144.00 68.00 185.00 68.00 Z"/>
 </g>
-<g fill="None" fill-opacity="0.0" stroke="#FFFFFF" stroke-opacity="1.00" stroke-width="0.3"><path d="
+<g fill="None" fill-opacity="0.0" stroke="#000000" stroke-opacity="1.00" stroke-width="0.3"><path d="
 M 185.00 68.00 
 C 144.00 68.00 103.00 68.00 62.00 68.00
 C 62.00 110.33 62.00 152.67 62.00 195.00
@@ -49,13 +49,8 @@ C 91.00 107.33 91.00 101.67 91.00 96.00
 C 100.49 98.42 118.76 92.20 126.70 97.30 C 134.63 102.40 136.11 112.12 143.00 118.00
 C 157.99 102.31 171.34 84.89 185.00 68.00 Z"/>
 </g>
-<g fill="#FFFFFF" fill-opacity="1.00" stroke="None">
+<g fill="#1c1c1c" fill-opacity="1.00" stroke="None">
 <path d="
-M 0.00 256.00 
-L 256.00 256.00
-L 256.00 0.00
-L 0.00 0.00
-L 0.00 256.00
 M 221.00 51.00 
 C 199.69 78.07 177.53 105.03 155.00 131.00
 C 176.53 158.88 200.15 185.36 222.00 213.00
@@ -63,7 +58,7 @@ C 163.00 213.00 104.00 213.00 45.00 213.00
 C 45.00 159.00 45.00 105.00 45.00 51.00
 C 103.67 51.00 162.33 51.00 221.00 51.00 Z"/>
 </g>
-<g fill="#121212" fill-opacity="1.00" stroke="None">
+<g fill="#FFFFFF" fill-opacity="1.00" stroke="None">
 <path d="
 M 221.00 51.00 
 C 162.33 51.00 103.67 51.00 45.00 51.00
@@ -84,7 +79,7 @@ C 144.00 195.00 103.00 195.00 62.00 195.00
 C 62.00 152.67 62.00 110.33 62.00 68.00
 C 103.00 68.00 144.00 68.00 185.00 68.00 Z"/>
 </g>
-<g fill="#FFFFFF" fill-opacity="1.00" stroke="None">
+<g fill="#000000" fill-opacity="1.00" stroke="None">
 <path d="
 M 185.00 68.00 
 C 144.00 68.00 103.00 68.00 62.00 68.00
