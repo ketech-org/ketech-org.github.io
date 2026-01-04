@@ -2,178 +2,178 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on K&amp;E Tech</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on K&amp;E Tech</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 Jan 2026 00:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design Systems</title>
-      <link>http://localhost:1313/tags/design-systems/</link>
+      <link>/tags/design-systems/</link>
       <pubDate>Sat, 03 Jan 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/design-systems/</guid>
+      <guid>/tags/design-systems/</guid>
       <description></description>
     </item>
     <item>
       <title>Frontend Architecture</title>
-      <link>http://localhost:1313/tags/frontend-architecture/</link>
+      <link>/tags/frontend-architecture/</link>
       <pubDate>Sat, 03 Jan 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/frontend-architecture/</guid>
+      <guid>/tags/frontend-architecture/</guid>
       <description></description>
     </item>
     <item>
       <title>React</title>
-      <link>http://localhost:1313/tags/react/</link>
+      <link>/tags/react/</link>
       <pubDate>Sat, 03 Jan 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/react/</guid>
+      <guid>/tags/react/</guid>
       <description></description>
     </item>
     <item>
       <title>Vite</title>
-      <link>http://localhost:1313/tags/vite/</link>
+      <link>/tags/vite/</link>
       <pubDate>Sat, 03 Jan 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/vite/</guid>
+      <guid>/tags/vite/</guid>
       <description></description>
     </item>
     <item>
       <title>Announcement</title>
-      <link>http://localhost:1313/tags/announcement/</link>
+      <link>/tags/announcement/</link>
       <pubDate>Mon, 20 May 2024 10:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/announcement/</guid>
+      <guid>/tags/announcement/</guid>
       <description></description>
     </item>
     <item>
       <title>Redesign</title>
-      <link>http://localhost:1313/tags/redesign/</link>
+      <link>/tags/redesign/</link>
       <pubDate>Mon, 20 May 2024 10:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/redesign/</guid>
+      <guid>/tags/redesign/</guid>
       <description></description>
     </item>
     <item>
       <title>Go</title>
-      <link>http://localhost:1313/tags/go/</link>
+      <link>/tags/go/</link>
       <pubDate>Sat, 22 Apr 2023 17:50:04 +0100</pubDate>
-      <guid>http://localhost:1313/tags/go/</guid>
+      <guid>/tags/go/</guid>
       <description></description>
     </item>
     <item>
       <title>Hybrid Runner</title>
-      <link>http://localhost:1313/tags/hybrid-runner/</link>
+      <link>/tags/hybrid-runner/</link>
       <pubDate>Sat, 22 Apr 2023 17:50:04 +0100</pubDate>
-      <guid>http://localhost:1313/tags/hybrid-runner/</guid>
+      <guid>/tags/hybrid-runner/</guid>
       <description></description>
     </item>
     <item>
       <title>Pattern</title>
-      <link>http://localhost:1313/tags/pattern/</link>
+      <link>/tags/pattern/</link>
       <pubDate>Sat, 22 Apr 2023 17:50:04 +0100</pubDate>
-      <guid>http://localhost:1313/tags/pattern/</guid>
+      <guid>/tags/pattern/</guid>
       <description></description>
     </item>
     <item>
       <title>Runner</title>
-      <link>http://localhost:1313/tags/runner/</link>
+      <link>/tags/runner/</link>
       <pubDate>Sat, 22 Apr 2023 17:50:04 +0100</pubDate>
-      <guid>http://localhost:1313/tags/runner/</guid>
+      <guid>/tags/runner/</guid>
       <description></description>
     </item>
     <item>
       <title>Anti-Pattern</title>
-      <link>http://localhost:1313/tags/anti-pattern/</link>
+      <link>/tags/anti-pattern/</link>
       <pubDate>Fri, 08 Jan 2021 10:48:26 +0000</pubDate>
-      <guid>http://localhost:1313/tags/anti-pattern/</guid>
+      <guid>/tags/anti-pattern/</guid>
       <description></description>
     </item>
     <item>
       <title>Closer</title>
-      <link>http://localhost:1313/tags/closer/</link>
+      <link>/tags/closer/</link>
       <pubDate>Fri, 08 Jan 2021 10:48:26 +0000</pubDate>
-      <guid>http://localhost:1313/tags/closer/</guid>
+      <guid>/tags/closer/</guid>
       <description></description>
     </item>
     <item>
       <title>Context</title>
-      <link>http://localhost:1313/tags/context/</link>
+      <link>/tags/context/</link>
       <pubDate>Mon, 30 Nov 2020 17:45:31 +0000</pubDate>
-      <guid>http://localhost:1313/tags/context/</guid>
+      <guid>/tags/context/</guid>
       <description></description>
     </item>
     <item>
       <title>Lock</title>
-      <link>http://localhost:1313/tags/lock/</link>
+      <link>/tags/lock/</link>
       <pubDate>Mon, 30 Nov 2020 17:45:31 +0000</pubDate>
-      <guid>http://localhost:1313/tags/lock/</guid>
+      <guid>/tags/lock/</guid>
       <description></description>
     </item>
     <item>
       <title>Mutex</title>
-      <link>http://localhost:1313/tags/mutex/</link>
+      <link>/tags/mutex/</link>
       <pubDate>Mon, 30 Nov 2020 17:45:31 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mutex/</guid>
+      <guid>/tags/mutex/</guid>
       <description></description>
     </item>
     <item>
       <title>Batch</title>
-      <link>http://localhost:1313/tags/batch/</link>
+      <link>/tags/batch/</link>
       <pubDate>Sun, 22 Nov 2020 17:38:34 +0000</pubDate>
-      <guid>http://localhost:1313/tags/batch/</guid>
+      <guid>/tags/batch/</guid>
       <description></description>
     </item>
     <item>
       <title>Buffered Writer</title>
-      <link>http://localhost:1313/tags/buffered-writer/</link>
+      <link>/tags/buffered-writer/</link>
       <pubDate>Sun, 22 Nov 2020 17:38:34 +0000</pubDate>
-      <guid>http://localhost:1313/tags/buffered-writer/</guid>
+      <guid>/tags/buffered-writer/</guid>
       <description></description>
     </item>
     <item>
       <title>Builder</title>
-      <link>http://localhost:1313/tags/builder/</link>
+      <link>/tags/builder/</link>
       <pubDate>Sun, 22 Nov 2020 17:38:34 +0000</pubDate>
-      <guid>http://localhost:1313/tags/builder/</guid>
+      <guid>/tags/builder/</guid>
       <description></description>
     </item>
     <item>
       <title>End-to-End Principle</title>
-      <link>http://localhost:1313/tags/end-to-end-principle/</link>
+      <link>/tags/end-to-end-principle/</link>
       <pubDate>Sun, 22 Nov 2020 17:38:34 +0000</pubDate>
-      <guid>http://localhost:1313/tags/end-to-end-principle/</guid>
+      <guid>/tags/end-to-end-principle/</guid>
       <description></description>
     </item>
     <item>
       <title>Unit of Work</title>
-      <link>http://localhost:1313/tags/unit-of-work/</link>
+      <link>/tags/unit-of-work/</link>
       <pubDate>Sun, 22 Nov 2020 17:38:34 +0000</pubDate>
-      <guid>http://localhost:1313/tags/unit-of-work/</guid>
+      <guid>/tags/unit-of-work/</guid>
       <description></description>
     </item>
     <item>
       <title>Benchmark</title>
-      <link>http://localhost:1313/tags/benchmark/</link>
+      <link>/tags/benchmark/</link>
       <pubDate>Fri, 19 Jun 2020 13:58:46 +0100</pubDate>
-      <guid>http://localhost:1313/tags/benchmark/</guid>
+      <guid>/tags/benchmark/</guid>
       <description></description>
     </item>
     <item>
       <title>Pointer</title>
-      <link>http://localhost:1313/tags/pointer/</link>
+      <link>/tags/pointer/</link>
       <pubDate>Fri, 19 Jun 2020 13:58:46 +0100</pubDate>
-      <guid>http://localhost:1313/tags/pointer/</guid>
+      <guid>/tags/pointer/</guid>
       <description></description>
     </item>
     <item>
       <title>Receivers</title>
-      <link>http://localhost:1313/tags/receivers/</link>
+      <link>/tags/receivers/</link>
       <pubDate>Fri, 19 Jun 2020 13:58:46 +0100</pubDate>
-      <guid>http://localhost:1313/tags/receivers/</guid>
+      <guid>/tags/receivers/</guid>
       <description></description>
     </item>
     <item>
       <title>Value</title>
-      <link>http://localhost:1313/tags/value/</link>
+      <link>/tags/value/</link>
       <pubDate>Fri, 19 Jun 2020 13:58:46 +0100</pubDate>
-      <guid>http://localhost:1313/tags/value/</guid>
+      <guid>/tags/value/</guid>
       <description></description>
     </item>
   </channel>

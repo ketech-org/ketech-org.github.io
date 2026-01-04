@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Closer on K&amp;E Tech</title>
-    <link>http://localhost:1313/tags/closer/</link>
+    <link>/tags/closer/</link>
     <description>Recent content in Closer on K&amp;E Tech</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Jan 2021 10:48:26 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/closer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/closer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go Anti-pattern: Parent Closer</title>
-      <link>http://localhost:1313/engineering/go-anti-patterns-parent-closer/</link>
+      <link>/engineering/go-anti-patterns-parent-closer/</link>
       <pubDate>Fri, 08 Jan 2021 10:48:26 +0000</pubDate>
-      <guid>http://localhost:1313/engineering/go-anti-patterns-parent-closer/</guid>
+      <guid>/engineering/go-anti-patterns-parent-closer/</guid>
       <description>&lt;p&gt;Imagine you need to wrap multiple objects which implements &lt;code&gt;io.Closer&lt;/code&gt;, e.g. three clients to fetch and combine data from different endpoints.&lt;/p&gt;</description>
     </item>
   </channel>

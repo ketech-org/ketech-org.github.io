@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Context on K&amp;E Tech</title>
-    <link>http://localhost:1313/tags/context/</link>
+    <link>/tags/context/</link>
     <description>Recent content in Context on K&amp;E Tech</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Nov 2020 17:45:31 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/context/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/context/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go Pattern: Context-aware Lock</title>
-      <link>http://localhost:1313/engineering/go-pattern-context-aware-lock/</link>
+      <link>/engineering/go-pattern-context-aware-lock/</link>
       <pubDate>Mon, 30 Nov 2020 17:45:31 +0000</pubDate>
-      <guid>http://localhost:1313/engineering/go-pattern-context-aware-lock/</guid>
+      <guid>/engineering/go-pattern-context-aware-lock/</guid>
       <description>&lt;p&gt;We often use &lt;code&gt;Mutex&lt;/code&gt; or &lt;code&gt;RWMutex&lt;/code&gt; as locks in Go, but sometimes we need a lock that can be cancelled by a context during the lock attempt.&lt;/p&gt;</description>
     </item>
   </channel>

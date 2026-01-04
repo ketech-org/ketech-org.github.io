@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Go on K&amp;E Tech</title>
-    <link>http://localhost:1313/tags/go/</link>
+    <link>/tags/go/</link>
     <description>Recent content in Go on K&amp;E Tech</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Apr 2023 17:50:04 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/go/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go Pattern: Hybrid Handler</title>
-      <link>http://localhost:1313/engineering/go-pattern-hybrid-handler/</link>
+      <link>/engineering/go-pattern-hybrid-handler/</link>
       <pubDate>Sat, 22 Apr 2023 17:50:04 +0100</pubDate>
-      <guid>http://localhost:1313/engineering/go-pattern-hybrid-handler/</guid>
+      <guid>/engineering/go-pattern-hybrid-handler/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;In today&amp;rsquo;s high-performance and concurrent computing environments, effectively processing a stream of messages using a mix of purely computational functions and remote procedure calls has become a significant challenge. The Go programming language is designed to handle concurrency well, but when it comes to managing a hybrid load, even Go can struggle to achieve optimal CPU utilization. In this article, we will discuss the Hybrid Handler pattern, an efficient and unified approach to address this challenge.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Go Pattern: Runner</title>
-      <link>http://localhost:1313/engineering/go-pattern-runner/</link>
+      <link>/engineering/go-pattern-runner/</link>
       <pubDate>Tue, 22 Feb 2022 14:46:35 +0000</pubDate>
-      <guid>http://localhost:1313/engineering/go-pattern-runner/</guid>
+      <guid>/engineering/go-pattern-runner/</guid>
       <description>&lt;p&gt;Again and again, a concurrent pattern emerges from the need to control goroutine lifecycles and handle their errors, and I call it the &amp;ldquo;Runner Pattern&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Go Anti-pattern: Parent Closer</title>
-      <link>http://localhost:1313/engineering/go-anti-patterns-parent-closer/</link>
+      <link>/engineering/go-anti-patterns-parent-closer/</link>
       <pubDate>Fri, 08 Jan 2021 10:48:26 +0000</pubDate>
-      <guid>http://localhost:1313/engineering/go-anti-patterns-parent-closer/</guid>
+      <guid>/engineering/go-anti-patterns-parent-closer/</guid>
       <description>&lt;p&gt;Imagine you need to wrap multiple objects which implements &lt;code&gt;io.Closer&lt;/code&gt;, e.g. three clients to fetch and combine data from different endpoints.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Go Pattern: Context-aware Lock</title>
-      <link>http://localhost:1313/engineering/go-pattern-context-aware-lock/</link>
+      <link>/engineering/go-pattern-context-aware-lock/</link>
       <pubDate>Mon, 30 Nov 2020 17:45:31 +0000</pubDate>
-      <guid>http://localhost:1313/engineering/go-pattern-context-aware-lock/</guid>
+      <guid>/engineering/go-pattern-context-aware-lock/</guid>
       <description>&lt;p&gt;We often use &lt;code&gt;Mutex&lt;/code&gt; or &lt;code&gt;RWMutex&lt;/code&gt; as locks in Go, but sometimes we need a lock that can be cancelled by a context during the lock attempt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Go Pattern: Buffered Writer</title>
-      <link>http://localhost:1313/engineering/go-pattern-buffered-writer/</link>
+      <link>/engineering/go-pattern-buffered-writer/</link>
       <pubDate>Sun, 22 Nov 2020 17:38:34 +0000</pubDate>
-      <guid>http://localhost:1313/engineering/go-pattern-buffered-writer/</guid>
+      <guid>/engineering/go-pattern-buffered-writer/</guid>
       <description>&lt;p&gt;A buffered writer is so ubiquitous that we do not usually consider it as a pattern, but sometimes we reinvent it or even do it in an inferior way. Let us look at a real use case first.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Value vs Pointer Receivers</title>
-      <link>http://localhost:1313/engineering/value-vs-pointer-receivers/</link>
+      <link>/engineering/value-vs-pointer-receivers/</link>
       <pubDate>Fri, 19 Jun 2020 13:58:46 +0100</pubDate>
-      <guid>http://localhost:1313/engineering/value-vs-pointer-receivers/</guid>
+      <guid>/engineering/value-vs-pointer-receivers/</guid>
       <description>&lt;p&gt;Should I use value receivers or pointer receivers?&lt;/p&gt;&#xA;&lt;p&gt;Value receivers have some benefits include immutability, concurrent safety and clean logic (not always, often true). But to what extend can I use value receivers without an issue or performance penalty?&lt;/p&gt;</description>
     </item>
   </channel>
