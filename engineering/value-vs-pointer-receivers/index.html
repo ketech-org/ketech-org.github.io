@@ -811,9 +811,9 @@ are 3 rules:</p>
 </span></span><span style="display:flex;"><span>}
 </span></span></code></pre></div><p>It turned out inlining is critical to the overhead of value copying.</p>
 <p>When inlining is disabled (<code>gcflags=-l</code>), for a struct of 1 word, value receiver has the same performance as the pointer receiver, but for structs larger than 2 words, value receivers begin to show more and more overhead.</p>
-<!-- ![Without Inline](/img/no_inline.png) -->
+<p><img src="/images/engineering/no_inline.png" alt="Without Inline"></p>
 <p>However, when inlining is enabled (the default option), value receivers have almost the same performance as pointer receivers for struct size from 1 up to 9 words! Overhead of value copying starts to rise for structs of 10 words or more.</p>
-<!-- ![With Inline](/img/with_inline.png) -->
+<p><img src="/images/engineering/with_inline.png" alt="With Inline"></p>
 <p>These results were tested on a Macbook Pro with <code>go1.14.3</code>.</p>
 <h3 id="conclusion">Conclusion</h3>
 <p>From the benchmark results, value receivers should be preferred if the methods are inlined and the struct size is equal to or smaller than 9 words (<code>1 word == 64 bit</code>), but this might not be the end of the story, the more complex a method is, the less likely it is inlined, but also the less proportion the copying overhead to the whole method logic. The overhead of copying from a value receiver might not be significant to the overall running time, so at the end of the day, the choice depends on the frequency of the method calls, the business logic and the performance requirements. When in doubt, benchmark it!</p>
