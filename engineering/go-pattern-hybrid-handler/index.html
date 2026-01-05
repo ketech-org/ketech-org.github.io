@@ -1188,20 +1188,69 @@
 
 
 
-<img src="/images/engineering/covers/go-pattern-context-aware-lock-cover.png" alt="Go Pattern: Context-aware Lock" class="mb-6 w-full rounded" width="1024"
+<img src="/images/engineering/covers/go-pattern-buffered-writer-cover.png" alt="Go Pattern: Buffered Writer" class="mb-6 w-full rounded" width="1024"
     height="1024">
 
   
   <h4 class="mb-3">
-    <a href="/engineering/go-pattern-context-aware-lock/">
-      Go Pattern: Context-aware Lock
+    <a href="/engineering/go-pattern-buffered-writer/">
+      Go Pattern: Buffered Writer
     </a>
   </h4>
   
   
-  <p class="mb-6">We often use Mutex or RWMutex as locks in Go, but sometimes we need a lock that can be cancelled by a context during the lock attempt.
+  <p class="mb-6">A buffered writer is so ubiquitous that we do not usually consider it as a pattern, but sometimes we reinvent it or even do it in an inferior way. Let us look at a real use case first.
 </p>
-  <a class="btn btn-outline-primary btn-sm" href="/engineering/go-pattern-context-aware-lock/">
+  <a class="btn btn-outline-primary btn-sm" href="/engineering/go-pattern-buffered-writer/">
+    Read More
+  </a>
+</div>
+
+                </div>
+                
+                <div class="lg:col-4 md:col-6 mb-14">
+                    <div class="bg-body dark:bg-darkmode-body">
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="/images/engineering/covers/go-pattern-runner-cover.png" alt="Go Pattern: Runner" class="mb-6 w-full rounded" width="1024"
+    height="1024">
+
+  
+  <h4 class="mb-3">
+    <a href="/engineering/go-pattern-runner/">
+      Go Pattern: Runner
+    </a>
+  </h4>
+  
+  
+  <p class="mb-6">Again and again, a concurrent pattern emerges from the need to control goroutine lifecycles and handle their errors, and I call it the &ldquo;Runner Pattern&rdquo;.
+</p>
+  <a class="btn btn-outline-primary btn-sm" href="/engineering/go-pattern-runner/">
     Read More
   </a>
 </div>
@@ -1252,55 +1301,6 @@
 Value receivers have some benefits include immutability, concurrent safety and clean logic (not always, often true). But to what extend can I use value receivers without an issue or performance penalty?
 </p>
   <a class="btn btn-outline-primary btn-sm" href="/engineering/value-vs-pointer-receivers/">
-    Read More
-  </a>
-</div>
-
-                </div>
-                
-                <div class="lg:col-4 md:col-6 mb-14">
-                    <div class="bg-body dark:bg-darkmode-body">
-  
-  
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img src="/images/engineering/covers/go-pattern-runner-cover.png" alt="Go Pattern: Runner" class="mb-6 w-full rounded" width="1024"
-    height="1024">
-
-  
-  <h4 class="mb-3">
-    <a href="/engineering/go-pattern-runner/">
-      Go Pattern: Runner
-    </a>
-  </h4>
-  
-  
-  <p class="mb-6">Again and again, a concurrent pattern emerges from the need to control goroutine lifecycles and handle their errors, and I call it the &ldquo;Runner Pattern&rdquo;.
-</p>
-  <a class="btn btn-outline-primary btn-sm" href="/engineering/go-pattern-runner/">
     Read More
   </a>
 </div>
