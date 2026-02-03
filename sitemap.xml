@@ -5,11 +5,20 @@
     <loc>/products/watchless/</loc>
     <lastmod>2025-12-29T00:00:00-05:00</lastmod>
   </url><url>
+    <loc>/products/deed-poll/</loc>
+    <lastmod>2026-02-03T00:00:00-05:00</lastmod>
+  </url><url>
     <loc>/products/tempoblocks/</loc>
     <lastmod>2024-01-02T00:00:00-05:00</lastmod>
   </url><url>
     <loc>/products/wen/</loc>
     <lastmod>2026-01-01T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-02-03T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/products/</loc>
+    <lastmod>2026-02-03T00:00:00-05:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
     <lastmod>2026-01-03T00:00:00-05:00</lastmod>
@@ -29,9 +38,6 @@
     <loc>/authors/hal/</loc>
     <lastmod>2026-01-03T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2026-01-03T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>/tags/react/</loc>
     <lastmod>2026-01-03T00:00:00-05:00</lastmod>
   </url><url>
@@ -40,9 +46,6 @@
   </url><url>
     <loc>/tags/vite/</loc>
     <lastmod>2026-01-03T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>/products/</loc>
-    <lastmod>2026-01-01T00:00:00-05:00</lastmod>
   </url><url>
     <loc>/pages/</loc>
     <lastmod>2025-12-04T00:00:00+00:00</lastmod>
